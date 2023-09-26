@@ -1,6 +1,6 @@
 # JS-SECURITY-XSS-CSRF
 
-Merhaba size javascript de bilinmesi gereken bazı güvenlik konularından bahsetttim. Bunları dikkate almak ve projelerinizde bu yaklaşımlara dikkat etmek sizin için iyi olacaktır.
+Merhaba size JavaScriptde bilinmesi gereken bazı güvenlik konularından bahsetttim. Bunları dikkate almak ve projelerinizde bu yaklaşımlara dikkat etmek sizin için iyi olacaktır.
 
 - Cross-Site Scripting (XSS): XSS saldırıları, kötü niyetli kullanıcıların web uygulamanızın kullanıcılarına zararlı betikleri enjekte etmeye çalıştığı bir güvenlik açığıdır. Bu saldırılar, kullanıcıların tarayıcılarına zararlı kodların gönderilmesini içerebilir ve bu kodlar daha sonra kullanıcıların cihazlarında çalışabilir. Bu nedenle giriş verilerini güvenli bir şekilde işlemek ve çıktıları filtrelemek veya kaçış karakterlerini kullanmak önemlidir.
 
